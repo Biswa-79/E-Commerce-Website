@@ -1,0 +1,15 @@
+We can send data in http in 3 form
+1) URL Param --- /travel/flights/search
+// Data is embeded in url directly ... means we can know the data by follow the URL 
+
+2) Query Form 
+// Key = vale && key = value etc.. 
+// Post the URl , the set of Key Value separated by a  ? Question Mark ;
+
+3) Req Body 
+Their are multiple components of a http request 
+The Url of a http request 
+// ex -- > URL Method req body .. it is the combination of all theis
+
+
+BROWSER OBJECT MODEL
